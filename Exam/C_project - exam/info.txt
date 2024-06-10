@@ -1,0 +1,6 @@
+P8; Malinov sorbet; 80; 3.40 leva
+L8; Caramel frappe; 66; 5.20 leva
+R7; Vanilla frappe; 64; 6.30 leva
+P8; Malinov sorbet; 80; 3.40 leva
+L8; Caramel frappe; 66; 5.20 leva
+R7; Vanilla frappe; 64; 6.30 leva
